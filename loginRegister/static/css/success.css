@@ -33,7 +33,6 @@ body{
 
 section{
     padding:2rem 9%;
-    min-height: 900px;
     position: flex;
     justify-content: center;
 }
@@ -120,10 +119,14 @@ section{
     display: none;
 }
 
+.confirmacion{
+    height: 700px;
+}
 
 .footer{
     margin-top: 5rem;
     background: #fff;
+    height: 300px;
 }
 
 .footer .box-container{
